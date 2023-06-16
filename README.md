@@ -75,6 +75,6 @@ Download the node_modules directory and other external resources automatically
 
 ### `npm ci`
 
-根据 package-lock.json 生成 node_modules
+Automatically generate the directory of 'node_modules', according to the file of 'package-lock.json'
 
 npm = Node Package Manager
