@@ -1,0 +1,3 @@
+OnlineOrder Application is deployed on AWS App Runner
+
+Default Domain Website: https://x3vimbmp2h.us-east-2.awsapprunner.com
