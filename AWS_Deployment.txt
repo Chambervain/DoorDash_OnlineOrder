@@ -1,3 +1,5 @@
-OnlineOrder Application is deployed on AWS App Runner
+DoorDash iFood
 
-Default Domain Website: https://x3vimbmp2h.us-east-2.awsapprunner.com
+The OnlineOrder Application is re-deployed on AWS App Runner
+
+Deployed domain Website: https://x3vimbmp2h.us-east-2.awsapprunner.com
